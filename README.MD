@@ -43,15 +43,25 @@ ClassName: Scanner.
 I didn't include all the process memeory stuff below, but those can be used to, its available in the memory class, check source.
 
 ```js
+
 Process process = the selected process that you want to use.
+
 below could be set via constructor or set via setters, check the source.
+
 Scanner Obj = new Scanner(process,process.Handle,"80 00 41 ?? ?? 00 00 ?? ?? ?? ?? ?? ?? 00 00 00 00 00");
+
+
 Obj.setModule(process.MainModule);
+
 Obj.FindPattern()
+
 the below could be done for writing found bytes,
+
 memObj.writeBytes(process, memObj.FindPattern(), "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00");
+
 you could also do below to get the backup bytes which you wrote for ex, you would get this region
 80 00 41 ?? ?? 00 00 ?? ?? ?? ?? ?? ?? 00 00 00 00 00, the placeholder with real values.
+
 memObj.getBackupBytes();
 ```
 ## Built With
