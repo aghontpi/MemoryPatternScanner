@@ -2,6 +2,13 @@
 
 >A standalone dll library written in c# for for wildcard AOB scan, reading and writing from process, its an old lib that I created and used for my personel use. Maybe this would help new modders, I recently stumbled upon this, so here it is.
 
+[![latest release][release]][release link] [![license][license badge]][license link]
+
+[license badge]: https://img.shields.io/github/license/gopinath001/MemoryPatternScanner
+[license link]: https://github.com/Gopinath001/MemoryPatternScanner/blob/master/LICENSE
+[release link]: https://github.com/Gopinath001/MemoryPatternScanner/releases
+[release]: https://img.shields.io/github/v/release/gopinath001/MemoryPatternScanner?include_prereleases
+
 ## Some insights.
 
 This was developed in visual studio 2013 and was done when I started learning modding so dont expect geat code(although I retouched some of it now.)
