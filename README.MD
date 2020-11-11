@@ -4,10 +4,10 @@
 
 # [![latest release][release]][release link] [![license][license badge]][license link]
 
-[license badge]: https://img.shields.io/github/license/gopinath001/MemoryPatternScanner
-[license link]: https://github.com/Gopinath001/MemoryPatternScanner/blob/master/LICENSE
-[release link]: https://github.com/Gopinath001/MemoryPatternScanner/releases
-[release]: https://img.shields.io/github/v/release/gopinath001/MemoryPatternScanner?include_prereleases
+[license badge]: https://img.shields.io/github/license/aghontpi/MemoryPatternScanner
+[license link]: https://github.com/aghontpi/MemoryPatternScanner/blob/master/LICENSE
+[release link]: https://github.com/aghontpi/MemoryPatternScanner/releases
+[release]: https://img.shields.io/github/v/release/aghontpi/MemoryPatternScanner?include_prereleases
 
 ## Some insights.
 
@@ -78,11 +78,11 @@ memObj.getBackupBytes();
 
 ## Authors
 
-* **Gopinath (aka) Bluepie** [Gopinath001](https://github.com/Gopinath001) 
+* **aghontpi (aka) Bluepie** [aghontpi](https://github.com/aghontpi) 
 
 ## Meta
 
-Gopinath (aka) bluepie – [@bluepie](https://twitter.com/xbluepie) – gopinath2nr@gmail.com
+aghontpi (aka) bluepie – [@bluepie](https://twitter.com/aghontpi) – aghontpi@gmail.com
 
 ## License
 
