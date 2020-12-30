@@ -13,14 +13,14 @@
 
 This was developed in visual studio 2013 and was done when I started learning modding so dont expect geat code(although I retouched some of it now.)
 
-### Just wana use the dll?
+### Just wanna use the dll?
 
 * download the dll
 * add a reference to the dll
 * 'using memory' must be added
 * check how other stuff is implemented in the source from here.
 
-### Wana Add some modifications?
+### Wanna Add some modifications?
 
 * clone-fork the repo do as you wish.
 
